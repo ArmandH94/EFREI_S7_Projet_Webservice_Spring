@@ -1,4 +1,4 @@
-# ProjetXML
+# Project Webservices (website like Rotten Tomatoes / Allocine)
 
 Requettes POSTMAN
 
@@ -50,7 +50,7 @@ INSERT INTO movies(title,duration,language,subtitles,director,main_actors,min_ag
 INSERT INTO movies(title,duration,language,subtitles,director,main_actors,min_age,starting_date,end_date) VALUES ('Les Gardiens de la Galaxie' ,'120' ,'VFR' ,'ss', 'James Gunn' , 'Carolyn Loucks, Monica Rochlin', '18', '12 FEV', '15 MARS');
 INSERT INTO movies(title,duration,language,subtitles,director,main_actors,min_age,starting_date,end_date) VALUES ('Avengers : L"Ère d"Ultron' ,'120' ,'VUS' ,'FR' ,'Joss Whedon' , 'Carolyn Loucks, Monica Rochlin', '20', '11 MAI', '12 JUIN');
 
----Ajout Théatres
+---Ajout Theatres
 
 INSERT INTO theatres(name, address, city) values ('Centre d"Art et de Culture',  '15bd des Nations-Unies', 'Meudon');
 INSERT INTO theatres(name, address, city) values ('Pathé Beaugrenelle',  'Centre Commercial Beaugrenelle', 'Paris');
